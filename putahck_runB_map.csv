@@ -1,0 +1,24 @@
+sample_id,sampling_date,site_code,river_mile,site_details,paired?,rep,number_within_run ,S5XX,N7XX
+PC_047,11/17/20,RRA,12,Russell Ranch - lower,No,A,1,S502,N711
+PC_048,11/17/20,RRA,12,Russell Ranch - lower,No,B,2,S503,N711
+PC_049,11/17/20,RRA,12,Russell Ranch - lower,No,C,3,S505,N711
+PC_050,11/17/20,N/A,N/A,Field Neg Control,N/A,FNC4,4,S506,N711
+PC_051,4/12/21,KIL,18,Kilkenny Weir - downstream,Screw trap,A,5,S507,N711
+PC_052,4/12/21,KIL,18,Kilkenny Weir - downstream,Screw trap,B,6,S508,N711
+PC_053,4/12/21,KIL,18,Kilkenny Weir - downstream,Screw trap,C,7,S510,N711
+PC_055,4/12/21,SCC,23,Stebbins Cold Canyon,No,B,9,S502,N711
+PC_056,4/12/21,SCC,23,Stebbins Cold Canyon,No,C,10,S503,N711
+PC_057,6/11/21,N/A,N/A,PCR NC,N/A,N/A,11,S505,N711
+PC_058,4/12/21,MBL,5,Mace Blvd - upstream,No,A,12,S506,N711
+PC_059,4/12/21,MBL,5,Mace Blvd - upstream,No,B,13,S507,N711
+PC_060,4/12/21,MBL,5,Mace Blvd - upstream,No,C,14,S508,N711
+PC_061,4/12/21,N/A,N/A,Field Neg Control,N/A,FNC5,15,S510,N711
+PC_062,5/27/21,KIL,18,Kilkenny Weir - downstream,Screw trap,A,16,S511,N711
+PC_063,5/27/21,KIL,18,Kilkenny Weir - downstream,Screw trap,B,17,S502,N711
+PC_064,5/27/21,KIL,18,Kilkenny Weir - downstream,Screw trap,C,18,S503,N711
+PC_065,5/27/21,KIL,18,Kilkenny Weir - upstream,Screw trap,A,19,S505,N711
+PC_066,5/27/21,KIL,18,Kilkenny Weir - upstream,Screw trap,B,20,S506,N711
+PC_067,5/27/21,KIL,18,Kilkenny Weir - upstream,Screw trap,C,21,S507,N711
+PC_068,5/27/21,N/A,N/A,Field Neg Control,N/A,FNC6,22,S508,N711
+PC_069,6/11/21,N/A,N/A,Extraction NC,N/A,ENC,23,S510,N711
+PC_070,6/11/21,N/A,N/A,PCR NC,N/A,N/A,24,S511,N711
