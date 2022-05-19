@@ -207,9 +207,8 @@ library(tidyverse)
 setwd("/Users/cristina/Desktop/GVL/putah_creek")
 
 #import sample metadata
-PC <- read.csv("PC_RunB_map_16May22.csv") #%>% 
-  #filter(site_code != 'FDNC')
-PC$river_mile <- as.factor(PC$river_mile)
+PC <- read.csv("PC_RunB_map_16May22.csv") 
+#PC$river_mile <- as.factor(PC$river_mile)
 
 rownames(seqtab.nochim) <- sub("_S.*","", rownames(seqtab.nochim))
 OTU <- seqtab.nochim 
