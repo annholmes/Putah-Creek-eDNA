@@ -223,7 +223,7 @@ ps <- phyloseq(otu_table(OTU, taxa_are_rows=FALSE),
 
 # filter out low abundance OTUs
 get_taxa_unique(ps, 'Species', errorIfNULL=FALSE) # view species present before filtering
-minTotRelAbun <- 1e-2 #set filtering threshold to 0.03%
+minTotRelAbun <- 1e-2 #set filtering threshold to 0.1%
 x <- taxa_sums(otu_table) 
 keepTaxa <- taxa_names(otu_table)[which((x / sum(x)) > minTotRelAbun)]
 ps_filtered <- prune_taxa(keepTaxa, ps)
