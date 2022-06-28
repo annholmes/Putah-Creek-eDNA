@@ -111,7 +111,7 @@ colnames(track) <- c("input", "filtered", "denoisedF", "denoisedR", "merged", "n
 rownames(track) <- sample.names
 track
 
-taxa <- assignTaxonomy(seqtab.nochim, "~/Downloads/eDNA/Putah-Creek-eDNA/RDB_prev.txt", multithread=TRUE)
+taxa <- assignTaxonomy(seqtab.nochim, "~/Downloads/eDNA/Putah-Creek-eDNA/RDB_improved_genus+species.txt", multithread=TRUE)
 
 taxa.print <- taxa  # Removing sequence row names for display only
 rownames(taxa.print) <- NULL
@@ -121,4 +121,4 @@ head(taxa.print)
 df <- as.data.frame(taxa)
 df$ASV <- rownames(taxa)
 library("writexl")
-write_xlsx(df, "~/Downloads/eDNA/Putah-Creek-eDNA/PC_RunB_taxonomy_prev.xlsx")
+write_xlsx(df, "~/Downloads/eDNA/Putah-Creek-eDNA/PC_RunB_taxonomy_improved_genus+species.xlsx")

@@ -94,7 +94,7 @@ FW_final <- FW_RDB[,c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", 
 head(FW_final)
 write.csv(FW_final,"12S_FW_GAPeDNA.csv", row.names = FALSE)
 
-#####
+##### merging
 library("writexl")
 write_xlsx(FW_final,"12S_FW_GAPeDNA.xlsx")
 
@@ -113,7 +113,7 @@ write_xlsx(master,"12S_RDB_Jun22.xlsx")
 
 # after filling out blank cells for Order and Family in Excel, import the master RDB again & export taxonomy to a text file
 master <-read.xlsx("12S_RDB_Jun22.xlsx", 1)
-write.table(master, file = "temp.txt", sep = ";",
+write.table(master, file = "RDB_improved_genus+species.txt", sep = ";",
             row.names = FALSE, col.names = FALSE, quote = FALSE)
 
 # final formatting using Python in RMarkdown file

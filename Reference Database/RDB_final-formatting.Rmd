@@ -11,11 +11,13 @@ import os
 
 os.chdir('/Users/tienly/Downloads/eDNA/Putah-Creek-eDNA/')
 
-with open('temp.txt', 'r' ) as f:
+with open('RDB_improved_genus+species', 'r' ) as f:
     content = f.read()
     content_new = re.sub('^(>[A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([GCAT]+)$', r'\1;\2;\3;\4;\5;\6;\7;\6_\7;\n\8', content, flags = re.M)
+    # no extra column of genus_species
+    # content_new = re.sub('^(>[A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([A-Za-z]+);([GCAT]+)$', r'\1;\2;\3;\4;\5;\6;\7;\n\8', content, flags = re.M)
 
-with open('temp1.txt', 'w' ) as f:
+with open('RDB_improved_genus+species', 'w' ) as f:
   f.write(content_new)
 
 print("need to delete the empty line at the end of file")
