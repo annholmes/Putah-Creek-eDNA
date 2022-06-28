@@ -102,7 +102,7 @@ library("xlsx")
 library(ggplot2)
 library(ggpubr)
 
-# manually add the existing RDB to the just exported GAPeDNA file
+# manually add the existing RDB to the just exported GAPeDNA Excel file in the same format
 # import the existing RDB
 prev <-read.xlsx("12S_FW_GAPeDNA.xlsx", 2) 
 prev <- data.frame(prev)
@@ -113,7 +113,7 @@ write_xlsx(master,"12S_RDB_Jun22.xlsx")
 
 # after filling out blank cells for Order and Family in Excel, import the master RDB again & export taxonomy to a text file
 master <-read.xlsx("12S_RDB_Jun22.xlsx", 1)
-write.table(master, file = "12S_RDB_Jun22.txt", sep = ";",
+write.table(master, file = "temp.txt", sep = ";",
             row.names = FALSE, col.names = FALSE, quote = FALSE)
 
 # final formatting using Python in RMarkdown file
