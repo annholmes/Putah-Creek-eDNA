@@ -1,3 +1,1 @@
-eDNA samples collected from Stebbins Cold Canyon (west) to Mace Blvd (east) on Putah Creek
-Some samples are paired with other surveys (fyke trap, electrofishing, fish class surveys)
-Some samples are not paired with another survey
+eDNA samples collected in Lower Putah Creek (Solano and Yolo Counties, California). The most upstream collection site )west) is Stebbins Cold Canyon (west) and the most downstream collection site (east) is Mace Blvd (east). One liter eDNA samples (n = 3 replicates) were collected paired with the annual fall electrofishing survey (n = 7 collecting events), spring fyke or rotary trap collections (n = 3 collecting events), multi-method class survey (n = 1 collecting event) or upaired (n = 10 collecting events.
