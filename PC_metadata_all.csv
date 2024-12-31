@@ -1,0 +1,70 @@
+﻿sample_id,type,sampling_event_no,site,replicate,paired,sampling_date,season,river_km,julian_date,sampling_season
+PC_001,Sample,1,SCCA,A,No,12/19/19,Fall,51.0,353,Fall
+PC_002,Sample,1,SCCA,B,No,12/19/19,Fall,51.0,353,Fall
+PC_003,Sample,1,SCCA,C,No,12/19/19,Fall,51.0,353,Fall
+PC_004,Sample,2,SW1D,A,No,12/19/19,Fall,34.4,353,Fall
+PC_005,Sample,2,SW1D,B,No,12/19/19,Fall,34.4,353,Fall
+PC_006,Sample,2,SW1D,C,No,12/19/19,Fall,34.4,353,Fall
+PC_007,Sample,3,MACD,A,No,12/19/19,Fall,10.6,353,Fall
+PC_008,Sample,3,MACD,B,No,12/19/19,Fall,10.6,353,Fall
+PC_009,Sample,3,MACD,C,No,12/19/19,Fall,10.6,353,Fall
+PC_018,Sample,4,RRAN,A,FYKE  ,5/25/20,Spring,26.7,146,Spring
+PC_019,Sample,4,RRAN,B,FYKE  ,5/25/20,Spring,26.7,146,Spring
+PC_020,Sample,4,RRAN,C,FYKE  ,5/28/20,Spring,26.7,146,Spring
+PC_025,Sample,5,SCCA,A,No,5/28/20,Spring,51.0,149,Spring
+PC_026,Sample,5,SCCA,B,No,5/28/20,Spring,51.0,149,Spring
+PC_035,Sample,5,SCCA,C,No,5/28/20,Spring,51.0,149,Spring
+PC_027,Sample,6,SW1D,A,No,5/28/20,Spring,34.4,149,Spring
+PC_028,Sample,6,SW1D,B,No,5/28/20,Spring,34.4,149,Spring
+PC_036,Sample,6,SW1D,C,No,5/28/20,Spring,34.4,149,Spring
+PC_029,Sample,7,MACD,A,No,5/28/20,Spring,10.6,149,Spring
+PC_030,Sample,7,MACD,B,No,5/28/20,Spring,10.6,149,Spring
+PC_031,Sample,7,MACD,C,No,5/28/20,Spring,10.6,149,Spring
+PC_037,Sample,8,MACU,A,EF,10/19/20,Fall,11.1,293,Fall
+PC_038,Sample,8,MACU,B,EF,10/19/20,Fall,11.1,293,Fall
+PC_039,Sample,8,MACU,C,EF,10/19/20,Fall,11.1,293,Fall
+PC_040,Sample,9,OLDR,A,EF,10/19/20,Fall,16.9,293,Fall
+PC_041,Sample,9,OLDR,B,EF,10/19/20,Fall,16.9,293,Fall
+PC_043,Sample,10,PEDR,A,EF,10/19/20,Fall,20.8,293,Fall
+PC_044,Sample,10,PEDR,B,EF,10/19/20,Fall,20.8,293,Fall
+PC_045,Sample,10,PEDR,C,EF,10/19/20,Fall,20.8,293,Fall
+PC_049,Sample,11,RRAN,C,No,11/17/20,Fall,26.7,322,Fall
+PC_051,Sample,12,SW2D,A,RST,4/12/21,Spring,34.1,102,Spring(April)
+PC_052,Sample,12,SW2D,B,RST,4/12/21,Spring,34.1,102,Spring(April)
+PC_053,Sample,12,SW2D,C,RST,4/12/21,Spring,34.1,102,Spring(April)
+PC_055,Sample,13,SCCA,B,No,4/12/21,Spring,51.0,102,Spring
+PC_056,Sample,13,SCCA,C,No,4/12/21,Spring,51.0,102,Spring
+PC_057,Sample,14,MACU,A,No,4/12/21,Spring,11.1,102,Spring
+PC_058,Sample,14,MACU,B,No,4/12/21,Spring,11.1,102,Spring
+PC_059,Sample,14,MACU,C,No,4/12/21,Spring,11.1,102,Spring
+PC_061,Sample,15,SW2D,A,RST,5/27/21,Spring,34.1,147,Spring(May)
+PC_062,Sample,15,SW2D,B,RST,5/27/21,Spring,34.1,147,Spring(May)
+PC_063,Sample,15,SW2D,C,RST,5/27/21,Spring,34.1,147,Spring(May)
+PC_070,Sample,16,MACU,A,EF,10/18/21,Fall,11.1,291,Fall
+PC_071,Sample,16,MACU,B,EF,10/18/21,Fall,11.1,291,Fall
+PC_072,Sample,16,MACU,C,EF,10/18/21,Fall,11.1,291,Fall
+PC_074,Sample,17,OLDR,A,No,10/19/21,Fall,16.9,292,Fall
+PC_075,Sample,17,OLDR,B,No,10/19/21,Fall,16.9,292,Fall
+PC_076,Sample,17,OLDR,C,No,10/19/21,Fall,16.9,292,Fall
+PC_078,Sample,18,PEDR,A,EF,10/19/21,Fall,20.8,292,Fall
+PC_079,Sample,18,PEDR,B,EF,10/19/21,Fall,20.8,292,Fall
+PC_080,Sample,18,PEDR,C,EF,10/19/21,Fall,20.8,292,Fall
+PC_082,Sample,19,I505,A,EF,10/20/21,Fall,35.1,293,Fall
+PC_083,Sample,19,I505,B,EF,10/20/21,Fall,35.1,293,Fall
+PC_084,Sample,19,I505,C,EF,10/20/21,Fall,35.1,293,Fall
+PC_085,Sample,20,WIBR,A,EF,10/20/21,Fall,36.5,293,Fall
+PC_086,Sample,20,WIBR,B,EF,10/20/21,Fall,36.5,293,Fall
+PC_087,Sample,20,WIBR,C,EF,10/20/21,Fall,36.5,293,Fall
+PC_090,Sample,21,APOR,A,MM,10/30/21,Fall,19.2,303,Fall
+PC_091,Sample,21,APOR,B,MM,10/30/21,Fall,19.2,303,Fall
+PC_092,Sample,21,APOR,C,MM,10/30/21,Fall,19.2,303,Fall
+PC_010,Negative control,NA,FDNC_1,NA,NA,12/19/19,NA,NA,NA,NA
+PC_024,Negative control,NA,FDNC_2,NA,NA,5/28/20,NA,NA,NA,NA
+PC_046,Negative control,NA,FDNC_3,NA,NA,10/19/20,NA,NA,NA,NA
+PC_060,Negative control,NA,FDNC_4,NA,NA,4/12/21,NA,NA,NA,NA
+PC_073,Negative control,NA,FDNC_5,NA,NA,10/18/21,NA,NA,NA,NA
+PC_077,Negative control,NA,FDNC_6,NA,NA,10/19/21,NA,NA,NA,NA
+PC_081,Negative control,NA,FDNC_7,NA,NA,10/19/21,NA,NA,NA,NA
+PC_088,Negative control,NA,FDNC_8,NA,NA,10/20/21,NA,NA,NA,NA
+PC_096,Negative control,NA,FDNC_9,NA,NA,10/30/21,NA,NA,NA,NA
+PC_032,Negative control,NA,PCRN,NA,NA,NA,NA,NA,NA,NA
