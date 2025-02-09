@@ -1,5 +1,5 @@
-#Spatiotemporal dynamics of novel fish assemblages along a regulated stream using environmental DNA (eDNA) 
-#Holmes et al. 2024
+#Putah Creek eDNA study (Holmes et al. 2025)
+
 #metabarcoding bioinformatics pipeline, taxonomic assignment, and bar plots
 #R script modified from DADA2 R package tutorial (Callahan et al. 2016)
 
