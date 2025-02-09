@@ -1,4 +1,7 @@
-#R script for a map of labeled eDNA sample sites (2019-2022) on lower Putah Creek with a call out map of California
+#Putah Creek eDNA study (Holmes et al. 2025)
+
+#R script for a map of lower Putah Creek with a call out map of California
+#eDNA sample sites sites sampled 2019-2022 are labeled
 
 library(sf) #import shapefiles
 library(ggplot2) 
