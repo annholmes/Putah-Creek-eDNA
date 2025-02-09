@@ -1,6 +1,9 @@
-#Venn diagrams to compare species detected by eDNA vs. conventional method 
-#note not all eDNA sites were sampled by a conventional method
+#Putah Creek eDNA study (Holmes et al. 2025)
+
+#Venn diagrams comparing species detected by eDNA vs. conventional methods
 #there are 3 trap sites and 8 electrofishihng sites
+#note not all eDNA sites were sampled by a conventional method
+
 library(ggplot2)
 library(cowplot)
 
