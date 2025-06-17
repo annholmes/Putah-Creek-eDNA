@@ -19,7 +19,7 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 
 ## 📄 Methods and Related Work
 
-### Electrofishing data
+### Electrofishing methods
 
 **Jacinto, E., Fangue, N. A., Cocherell, D. E., Kiernan, J. D., Moyle, P. B., & Rypel, A. L.** (2023).  
 *Increasing stability of a native freshwater fish assemblage following flow rehabilitation.* *Ecological Applications, 33*(5), e2868.
@@ -28,7 +28,7 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 *Increasing Stability of a Native Freshwater Fish Assemblage Following Flow Rehabilitation* [Dataset]. **Zenodo**. https://doi.org/10.5281/zenodo.7822308  
 > This Zenodo archive includes electrofishing data from 1993–2017. The 2020–2021 data in this repository were collected using similar methods by the same team.
 
-### Trap data
+### Trap methods
 
 **Miner, M. C., Jacinto, E., Holmes, A., Cocherell, D. E., Baird, S. E., Schreier, A. M., Fangue, N. A., & Rypel, A. L.** (2020).  
 *Origin and abundance of Chinook salmon in Putah Creek.* Annual report to the Solano County Water Agency, September 2020.
