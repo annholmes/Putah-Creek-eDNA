@@ -8,7 +8,7 @@ This file contains a customized version of the MiFish 12S rRNA reference sequenc
 
 This reference database is **modified from**:
 
-> **Nagarajan et al. (2023)**, the original source of the reference sequences
+> **Nagarajan, R., Holmes, A., & Schreier, A.**, the original source of the reference sequences
 
 ### 🛠 Modifications Include:
 • Addition of non-target taxa not expected in Putah Creek to faciliate quality filtering
