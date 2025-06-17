@@ -2,7 +2,7 @@
 
 **File:** `12S_MiFish_custom_RDB_PutahCK.txt`
 
-This file contains a 12S rRNA gene reference sequence database of modified for species expected in Putah Creek and used for taxonomic assignment in *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*. The reference sequences have been trimmed to the MiFish 12S barcode region (~170 bp) to match the target amplicon of the study.
+This file contains a 12S rRNA gene reference sequence database for the species assemblage of the San Francisco Estuary and Putah Creek (California, US) and used for taxonomic assignment in *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*. The reference sequences have been trimmed to the MiFish 12S barcode region (~170 bp) to match the target amplicon of the study.
 
 ## 🔍 Source and attribution
 
@@ -13,11 +13,11 @@ This reference sequence database is **modified from**:
  
 ### 🛠 Modifications to this version include:
 • Addition of non-target taxa not expected in Putah Creek to faciliate quality filtering
-• Standardization of species names to match regional checklists  
+• Standardization of species names and sequence dereplication 
 • Format adjustments for compatibility with DADA2’s `assignTaxonomy()` function
 
 ## 📄 Citations
 
-If you use this reference sequence database, please cite both:
+If you use, modify, or incorporate any part this reference sequence database in your work, please cite both:
 1. **Holmes, AE et al.** *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA (this study)*
 2. **Nagarajan, R, Holmes, A, & Schreier, A.** (2023). *Reference sequence database for eDNA metabarcoding of San Francisco estuary fishes and invertebrates* [Dataset]. **Dryad**. https://doi.org/10.5061/dryad.0p2ngf25z
