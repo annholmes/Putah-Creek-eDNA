@@ -1,6 +1,6 @@
 # 🐟 Conventional Fish Sampling Data (2020–2021)
 
-This folder contains data from conventional sampling of fish assemblages in Putah Creek (2020-2021) that was compared to eDNA results in paper *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*.
+This folder contains data from conventional sampling of fish assemblages in Putah Creek (2020-2021) that was compared to eDNA results in the paper *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*.
 .
 
 ## 🗂️ Files
@@ -27,7 +27,7 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 
 **Jacinto, E., Fangue, N. A., Cocherell, D. E., Kiernan, J. D., Moyle, P. B., & Rypel, A. L.** (2022).  
 *Increasing Stability of a Native Freshwater Fish Assemblage Following Flow Rehabilitation* [Dataset]. **Zenodo**. https://doi.org/10.5281/zenodo.7822308  
-> This Zenodo archive includes electrofishing data from 1993–2017. The 2020–2021 data in this repository were collected using similar methods by the same team.
+> This Zenodo archive includes electrofishing data from 1993–2017. The 2020–2021 data in this repository were collected using similar methods.
 
 ### Trap methods
 
