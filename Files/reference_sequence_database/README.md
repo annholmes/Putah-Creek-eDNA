@@ -2,7 +2,7 @@
 
 **File:** `12S_MiFish_custom_RDB_PutahCK.txt`
 
-This file contains a a MiFish 12S rRNA reference sequence database modified for species expected in Putah Creek and used for taxonomic assignment in *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*.
+This file contains a 12S rRNA gene reference sequence database of modified for species expected in Putah Creek and used for taxonomic assignment in *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*. The reference sequences have been trimmed to the MiFish 12S barcode region (~170 bp) to match the target amplicon of the study.
 
 ## 🔍 Source and attribution
 
