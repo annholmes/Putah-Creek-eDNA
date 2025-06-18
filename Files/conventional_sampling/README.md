@@ -7,10 +7,10 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 
 | Filename                         | Method              | Year | Location        | Season | Notes |
 |----------------------------------|---------------------|------|-----------------|--------|-------|
-| `electrofishing_2020.csv`        | Electrofishing      | 2020 | Multiple sites  | Fall   | Partial overlap with eDNA sites |
-| `electrofishing_2021.csv`        | Electrofishing      | 2021 | Multiple sites  | Fall   | Partial overlap with eDNA sites |
-| `fyke_trap_2020.csv`             | Fyke Trap           | 2020 | Russell Ranch   | Spring | Single trap |
-| `rotary_screw_trap_2021.csv`     | Rotary Screw Trap   | 2021 | Step Weir 2     | Spring | Single trap |
+| `PutahCk_electrofishing_comp_2020.csv`        | Electrofishing      | 2020 | Multiple sites  | Fall   | Partial overlap with eDNA sites |
+| `PutahCk_electrofishing_comp_2021.csv`        | Electrofishing      | 2021 | Multiple sites  | Fall   | Partial overlap with eDNA sites |
+| `PutahCk_fyke_trap_comp_2020.csv`             | Fyke Trap           | 2020 | Russell Ranch   | Spring | Single trap |
+| `PutahCk_rotary_screw_trap_comp_2021.csv`     | Rotary Screw Trap   | 2021 | Step Weir 2     | Spring | Single trap |
 
 ## 📊 Data Collection and Funding
 
