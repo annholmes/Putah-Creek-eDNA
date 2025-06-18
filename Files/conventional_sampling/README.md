@@ -14,9 +14,10 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 
 ## 📊 Data Collection and Funding
 
-• Fyke trap and rotary screw trap data were collected and provided by Mackenzie Miner and Andrew Rypel.  
-• Electrofishing data were collected and provided by Tim Salamunovich and TRPA Fish Biologists.  
-• Funding was provided by the Solano County Water Agency.
+• Fyke trap and rotary screw trap data were collected and provided by Mackenzie Miner and Andrew Rypel.
+• Electrofishing data were collected and provided by Tim Salamunovich and TRPA Fish Biologists.
+• Multi-method sampling at site FRPG (fall 2021) is included in the electrofishing 2021 data file; these data were collected by the UC Davis Fish Class (WFC 120), and curated and provided by Teejay O'Rear and John Durand. The sampling methods were electrofishing, traps, gill nets, and beach seine.
+• Funding for annual conventional surveys was provided by the Solano County Water Agency.
 
 ## 📄 Methods and Related Work
 
