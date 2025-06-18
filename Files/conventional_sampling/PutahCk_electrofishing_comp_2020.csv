@@ -1,0 +1,153 @@
+﻿collecting_event,number,method,species,common_name,common_name_label,names,names_by_family,frequency,relative_abundance
+MACUFA20,1,Electrofishing (individuals),Ameiurus catus,white catfish,,white catfish (Ameiurus catus),Ictaluridae: Ameiurus catus (white catfish) [Introduced],0,0.0000
+MACUFA20,2,Electrofishing (individuals),Ameiurus melas/nebulosos,black/brown bullhead,,black/brown bullhead (Ameiurus melas),Ictaluridae: A. melas/nebulosus (bullhead) [Introduced],1,0.0020
+MACUFA20,3,Electrofishing (individuals),Carassius auratus,goldfish,,goldfish (Carassius auratus),Cyprinidae: Carassius auratus (goldfish) [Introduced],0,0.0000
+MACUFA20,4,Electrofishing (individuals),Catostomus occidentalis,Sacramento sucker,,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],0,0.0000
+MACUFA20,5,Electrofishing (individuals),Cottus asper,prickly sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],1,0.0020
+MACUFA20,6,Electrofishing (individuals),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0.0000
+MACUFA20,7,Electrofishing (individuals),Gambusia affinis,western mosquitofish,,western mosquitofish (Gambusia affinis),Poeciliidae: Gambusia affinis (western mosquitofish) [Introduced],4,0.0079
+MACUFA20,8,Electrofishing (individuals),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0.0000
+MACUFA20,9,Electrofishing (individuals),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],0,0.0000
+MACUFA20,10,Electrofishing (individuals),Lavinia exilicauda,hitch,,hitch (Lavinia exilicauda),Cyprinidae: Lavinia exilicauda (hitch) [Native],0,0.0000
+MACUFA20,11,Electrofishing (individuals),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],10,0.0198
+MACUFA20,12,Electrofishing (individuals),Lepomis gulosus,warmouth,,warmouth (Lepomis gulosus),Centrarchidae: L. gulosus (warmouth) [Introduced],0,0.0000
+MACUFA20,13,Electrofishing (individuals),Lepomis macrochirus,bluegill,bluegill,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],244,0.4822
+MACUFA20,14,Electrofishing (individuals),Lepomis microlophus,redear sunfish,redear sunfish,redear sunfish (Lepomis microlophus),Centrarchidae: L. microlophus (redear sunfish) [Introduced],32,0.0632
+MACUFA20,15,Electrofishing (individuals),Menidia beryllina complex,silverside,silverside,silverside (Menidia beryllina complex),Atherinopsidae: Menidia beryllina complex (silverside) [Introduced],122,0.2411
+MACUFA20,16,Electrofishing (individuals),Micropterus dolomieu,smallmouth bass,,smallmouth bass (Micropterus dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0.0000
+MACUFA20,17,Electrofishing (individuals),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],89,0.1759
+MACUFA20,18,Electrofishing (individuals),Notemigonus crysoleucas,golden shiner,,golden shiner (Notemigonus crysoleucas),Cyprinidae: Notemigonus crysoleucas (golden shiner) [Introduced],1,0.0020
+MACUFA20,19,Electrofishing (individuals),Oncorhynchus mykiss ,rainbow trout,,rainbow trout (Oncorhynchus mykiss ),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0.0000
+MACUFA20,20,Electrofishing (individuals),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0.0000
+MACUFA20,21,Electrofishing (individuals),Orthodon microlepidotus,Sacramento blackfish,,Sacramento blackfish (Orthodon microlepidotus),Cyprinidae: Orthodon microlepidotus (Sacramento blackfish) [Native],0,0.0000
+MACUFA20,22,Electrofishing (individuals),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],2,0.0040
+MACUFA20,23,Electrofishing (individuals),Pimephales promelas,fathead minnow,,fathead minnow (Pimephales promelas),Cyprinidae: Pimephales promelas (fathead minnow) [Introduced],0,0.0000
+MACUFA20,24,Electrofishing (individuals),Pomoxis nigromaculatus,black crappie,,black crappie (Pomoxis nigromaculatus),Centrarchidae: Pomoxis nigromaculatus (black crappie) [Introduced],0,0.0000
+MACUFA20,25,Electrofishing (individuals),Ptychocheilus grandis,Sacramento pikeminnow,,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],0,0.0000
+MACUFA20,26,eDNA (reads),Ameiurus catus,white catfish,,white catfish (Ameiurus catus),Ictaluridae: Ameiurus catus (white catfish) [Introduced],105,0.0007
+MACUFA20,27,eDNA (reads),Ameiurus melas/nebulosos,black/brown bullhead,,black/brown bullhead (Ameiurus melas),Ictaluridae: A. melas/nebulosus (bullhead) [Introduced],165,0.0012
+MACUFA20,28,eDNA (reads),Carassius auratus,goldfish,,goldfish (Carassius auratus),Cyprinidae: Carassius auratus (goldfish) [Introduced],0,0.0000
+MACUFA20,29,eDNA (reads),Catostomus occidentalis,Sacramento sucker,,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],0,0.0000
+MACUFA20,30,eDNA (reads),Cottus asper,prickly sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],500,0.0035
+MACUFA20,31,eDNA (reads),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],1436,0.0101
+MACUFA20,32,eDNA (reads),Gambusia affinis,western mosquitofish,,western mosquitofish (Gambusia affinis),Poeciliidae: Gambusia affinis (western mosquitofish) [Introduced],4148,0.0291
+MACUFA20,33,eDNA (reads),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0.0000
+MACUFA20,34,eDNA (reads),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],0,0.0000
+MACUFA20,35,eDNA (reads),Lavinia exilicauda,hitch,,hitch (Lavinia exilicauda),Cyprinidae: Lavinia exilicauda (hitch) [Native],0,0.0000
+MACUFA20,36,eDNA (reads),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],3887,0.0273
+MACUFA20,37,eDNA (reads),Lepomis gulosus,warmouth,,warmouth (Lepomis gulosus),Centrarchidae: L. gulosus (warmouth) [Introduced],531,0.0037
+MACUFA20,38,eDNA (reads),Lepomis macrochirus,bluegill,bluegill,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],79987,0.5608
+MACUFA20,39,eDNA (reads),Lepomis microlophus,redear sunfish,redear sunfish,redear sunfish (Lepomis microlophus),Centrarchidae: L. microlophus (redear sunfish) [Introduced],25410,0.1782
+MACUFA20,40,eDNA (reads),Menidia beryllina complex,silverside,,silverside (Menidia beryllina complex),Atherinopsidae: Menidia beryllina complex (silverside) [Introduced],2920,0.0205
+MACUFA20,41,eDNA (reads),Micropterus dolomieu,smallmouth bass,,smallmouth bass (Micropterus dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0.0000
+MACUFA20,42,eDNA (reads),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],21033,0.1475
+MACUFA20,43,eDNA (reads),Notemigonus crysoleucas,golden shiner,,golden shiner (Notemigonus crysoleucas),Cyprinidae: Notemigonus crysoleucas (golden shiner) [Introduced],446,0.0031
+MACUFA20,44,eDNA (reads),Oncorhynchus mykiss ,rainbow trout,,rainbow trout (Oncorhynchus mykiss ),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0.0000
+MACUFA20,45,eDNA (reads),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],20,0.0001
+MACUFA20,46,eDNA (reads),Orthodon microlepidotus,Sacramento blackfish,,Sacramento blackfish (Orthodon microlepidotus),Cyprinidae: Orthodon microlepidotus (Sacramento blackfish) [Native],0,0.0000
+MACUFA20,47,eDNA (reads),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],0,0.0000
+MACUFA20,48,eDNA (reads),Pimephales promelas,fathead minnow,,fathead minnow (Pimephales promelas),Cyprinidae: Pimephales promelas (fathead minnow) [Introduced],0,0.0000
+MACUFA20,49,eDNA (reads),Pomoxis nigromaculatus,black crappie,,black crappie (Pomoxis nigromaculatus),Centrarchidae: Pomoxis nigromaculatus (black crappie) [Introduced],0,0.0000
+MACUFA20,50,eDNA (reads),Ptychocheilus grandis,Sacramento pikeminnow,,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],2031,0.0142
+OLDRFA20,1,Electrofishing (individuals),Ameiurus catus,white catfish,,white catfish (Ameiurus catus),Ictaluridae: Ameiurus catus (white catfish) [Introduced],1,0.0054
+OLDRFA20,2,Electrofishing (individuals),Ameiurus melas/nebulosos,black/brown bullhead,,black/brown bullhead (Ameiurus melas),Ictaluridae: A. melas/nebulosus (bullhead) [Introduced],0,0.0000
+OLDRFA20,3,Electrofishing (individuals),Carassius auratus,goldfish,,goldfish (Carassius auratus),Cyprinidae: Carassius auratus (goldfish) [Introduced],0,0.0000
+OLDRFA20,4,Electrofishing (individuals),Catostomus occidentalis,Sacramento sucker,,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],0,0.0000
+OLDRFA20,5,Electrofishing (individuals),Cottus asper,prickly sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],6,0.0323
+OLDRFA20,6,Electrofishing (individuals),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0.0000
+OLDRFA20,7,Electrofishing (individuals),Gambusia affinis,western mosquitofish,,western mosquitofish (Gambusia affinis),Poeciliidae: Gambusia affinis (western mosquitofish) [Introduced],0,0.0000
+OLDRFA20,8,Electrofishing (individuals),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0.0000
+OLDRFA20,9,Electrofishing (individuals),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],0,0.0000
+OLDRFA20,10,Electrofishing (individuals),Lavinia exilicauda,hitch,,hitch (Lavinia exilicauda),Cyprinidae: Lavinia exilicauda (hitch) [Native],0,0.0000
+OLDRFA20,11,Electrofishing (individuals),Lepomis cyanellus,green sunfish,green sunfish,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],13,0.0699
+OLDRFA20,12,Electrofishing (individuals),Lepomis gulosus,warmouth,,warmouth (Lepomis gulosus),Centrarchidae: L. gulosus (warmouth) [Introduced],0,0.0000
+OLDRFA20,13,Electrofishing (individuals),Lepomis macrochirus,bluegill,bluegill,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],109,0.5860
+OLDRFA20,14,Electrofishing (individuals),Lepomis microlophus,redear sunfish,,redear sunfish (Lepomis microlophus),Centrarchidae: L. microlophus (redear sunfish) [Introduced],1,0.0054
+OLDRFA20,15,Electrofishing (individuals),Menidia beryllina complex,silverside,,silverside (Menidia beryllina),Atherinopsidae: Menidia beryllina complex (silverside) [Introduced],1,0.0054
+OLDRFA20,16,Electrofishing (individuals),Micropterus dolomieu,smallmouth bass,,smallmouth bass (Micropterus dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0.0000
+OLDRFA20,17,Electrofishing (individuals),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],54,0.2903
+OLDRFA20,18,Electrofishing (individuals),Notemigonus crysoleucas,golden shiner,,golden shiner (Notemigonus crysoleucas),Cyprinidae: Notemigonus crysoleucas (golden shiner) [Introduced],0,0.0000
+OLDRFA20,19,Electrofishing (individuals),Oncorhynchus mykiss ,rainbow trout,,rainbow trout (Oncorhynchus mykiss ),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0.0000
+OLDRFA20,20,Electrofishing (individuals),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0.0000
+OLDRFA20,21,Electrofishing (individuals),Orthodon microlepidotus,Sacramento blackfish,,Sacramento blackfish (Orthodon microlepidotus),Cyprinidae: Orthodon microlepidotus (Sacramento blackfish) [Native],0,0.0000
+OLDRFA20,22,Electrofishing (individuals),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],1,0.0054
+OLDRFA20,23,Electrofishing (individuals),Pimephales promelas,fathead minnow,,fathead minnow (Pimephales promelas),Cyprinidae: Pimephales promelas (fathead minnow) [Introduced],0,0.0000
+OLDRFA20,24,Electrofishing (individuals),Pomoxis nigromaculatus,black crappie,,black crappie (Pomoxis nigromaculatus),Centrarchidae: Pomoxis nigromaculatus (black crappie) [Introduced],0,0.0000
+OLDRFA20,25,Electrofishing (individuals),Ptychocheilus grandis,Sacramento pikeminnow,,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],0,0.0000
+OLDRFA20,26,eDNA (reads),Ameiurus catus,white catfish,,white catfish (Ameiurus catus),Ictaluridae: Ameiurus catus (white catfish) [Introduced],13,0.0001
+OLDRFA20,27,eDNA (reads),Ameiurus melas/nebulosos,black/brown bullhead,,black/brown bullhead (Ameiurus melas),Ictaluridae: A. melas/nebulosus (bullhead) [Introduced],0,0.0000
+OLDRFA20,28,eDNA (reads),Carassius auratus,goldfish,,goldfish (Carassius auratus),Cyprinidae: Carassius auratus (goldfish) [Introduced],0,0.0000
+OLDRFA20,29,eDNA (reads),Catostomus occidentalis,Sacramento sucker,Sacramento sucker,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],18058,0.1037
+OLDRFA20,30,eDNA (reads),Cottus asper,prickly sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],489,0.0028
+OLDRFA20,31,eDNA (reads),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],276,0.0016
+OLDRFA20,32,eDNA (reads),Gambusia affinis,western mosquitofish,western mosquitofish,western mosquitofish (Gambusia affinis),Poeciliidae: Gambusia affinis (western mosquitofish) [Introduced],25880,0.1486
+OLDRFA20,33,eDNA (reads),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0.0000
+OLDRFA20,34,eDNA (reads),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],0,0.0000
+OLDRFA20,35,eDNA (reads),Lavinia exilicauda,hitch,,hitch (Lavinia exilicauda),Cyprinidae: Lavinia exilicauda (hitch) [Native],0,0.0000
+OLDRFA20,36,eDNA (reads),Lepomis cyanellus,green sunfish,green sunfish,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],6894,0.0396
+OLDRFA20,37,eDNA (reads),Lepomis gulosus,warmouth,,warmouth (Lepomis gulosus),Centrarchidae: L. gulosus (warmouth) [Introduced],0,0.0000
+OLDRFA20,38,eDNA (reads),Lepomis macrochirus,bluegill,bluegill,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],64058,0.3678
+OLDRFA20,39,eDNA (reads),Lepomis microlophus,redear sunfish,redear sunfish,redear sunfish (Lepomis microlophus),Centrarchidae: L. microlophus (redear sunfish) [Introduced],28456,0.1634
+OLDRFA20,40,eDNA (reads),Menidia beryllina complex,silverside,,silverside (Menidia beryllina),Atherinopsidae: Menidia beryllina complex (silverside) [Introduced],0,0.0000
+OLDRFA20,41,eDNA (reads),Micropterus dolomieu,smallmouth bass,,smallmouth bass (Micropterus dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0.0000
+OLDRFA20,42,eDNA (reads),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],27252,0.1565
+OLDRFA20,43,eDNA (reads),Notemigonus crysoleucas,golden shiner,,golden shiner (Notemigonus crysoleucas),Cyprinidae: Notemigonus crysoleucas (golden shiner) [Introduced],0,0.0000
+OLDRFA20,44,eDNA (reads),Oncorhynchus mykiss ,rainbow trout,,rainbow trout (Oncorhynchus mykiss ),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0.0000
+OLDRFA20,45,eDNA (reads),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0.0000
+OLDRFA20,46,eDNA (reads),Orthodon microlepidotus,Sacramento blackfish,,Sacramento blackfish (Orthodon microlepidotus),Cyprinidae: Orthodon microlepidotus (Sacramento blackfish) [Native],0,0.0000
+OLDRFA20,47,eDNA (reads),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],0,0.0000
+OLDRFA20,48,eDNA (reads),Pimephales promelas,fathead minnow,,fathead minnow (Pimephales promelas),Cyprinidae: Pimephales promelas (fathead minnow) [Introduced],0,0.0000
+OLDRFA20,49,eDNA (reads),Pomoxis nigromaculatus,black crappie,,black crappie (Pomoxis nigromaculatus),Centrarchidae: Pomoxis nigromaculatus (black crappie) [Introduced],0,0.0000
+OLDRFA20,50,eDNA (reads),Ptychocheilus grandis,Sacramento pikeminnow,,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],2780,0.0160
+PEDRFA20,1,Electrofishing (individuals),Ameiurus catus,white catfish,,white catfish (Ameiurus catus),Ictaluridae: Ameiurus catus (white catfish) [Introduced],0,0.0000
+PEDRFA20,2,Electrofishing (individuals),Ameiurus melas/nebulosos,black/brown bullhead,,black/brown bullhead (Ameiurus melas),Ictaluridae: A. melas/nebulosus (bullhead) [Introduced],0,0.0000
+PEDRFA20,3,Electrofishing (individuals),Carassius auratus,goldfish,,goldfish (Carassius auratus),Cyprinidae: Carassius auratus (goldfish) [Introduced],0,0.0000
+PEDRFA20,4,Electrofishing (individuals),Catostomus occidentalis,Sacramento sucker,Sacramento sucker,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],13,0.0783
+PEDRFA20,5,Electrofishing (individuals),Cottus asper,prickly sculpin,prickly sculpin,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],7,0.0422
+PEDRFA20,6,Electrofishing (individuals),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0.0000
+PEDRFA20,7,Electrofishing (individuals),Gambusia affinis,western mosquitofish,,western mosquitofish (Gambusia affinis),Poeciliidae: Gambusia affinis (western mosquitofish) [Introduced],1,0.0060
+PEDRFA20,8,Electrofishing (individuals),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0.0000
+PEDRFA20,9,Electrofishing (individuals),Hysterocarpus traskii,tule perch,tule perch,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],11,0.0663
+PEDRFA20,10,Electrofishing (individuals),Lavinia exilicauda,hitch,hitch,hitch (Lavinia exilicauda),Cyprinidae: Lavinia exilicauda (hitch) [Native],8,0.0482
+PEDRFA20,11,Electrofishing (individuals),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],0,0.0000
+PEDRFA20,12,Electrofishing (individuals),Lepomis gulosus,warmouth,,warmouth (Lepomis gulosus),Centrarchidae: L. gulosus (warmouth) [Introduced],0,0.0000
+PEDRFA20,13,Electrofishing (individuals),Lepomis macrochirus,bluegill,,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],0,0.0000
+PEDRFA20,14,Electrofishing (individuals),Lepomis microlophus,redear sunfish,,redear sunfish (Lepomis microlophus),Centrarchidae: L. microlophus (redear sunfish) [Introduced],0,0.0000
+PEDRFA20,15,Electrofishing (individuals),Lepomis sp. ,undetermined sunfish,,undetermined sunfish,Centrarchidae: Lepomis sp. (undetermined sunfish) [Introduced],0,0.0000
+PEDRFA20,16,Electrofishing (individuals),Menidia beryllina complex,silverside,,silverside (Menidia beryllina),Atherinopsidae: Menidia beryllina complex (silverside) [Introduced],0,0.0000
+PEDRFA20,17,Electrofishing (individuals),Micropterus dolomieu,smallmouth bass,,smallmouth bass (Micropterus dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0.0000
+PEDRFA20,18,Electrofishing (individuals),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],29,0.1747
+PEDRFA20,19,Electrofishing (individuals),Notemigonus crysoleucas,golden shiner,,golden shiner (Notemigonus crysoleucas),Cyprinidae: Notemigonus crysoleucas (golden shiner) [Introduced],0,0.0000
+PEDRFA20,20,Electrofishing (individuals),Oncorhynchus mykiss ,rainbow trout,,rainbow trout (Oncorhynchus mykiss ),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0.0000
+PEDRFA20,21,Electrofishing (individuals),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0.0000
+PEDRFA20,22,Electrofishing (individuals),Orthodon microlepidotus,Sacramento blackfish,,Sacramento blackfish (Orthodon microlepidotus),Cyprinidae: Orthodon microlepidotus (Sacramento blackfish) [Native],0,0.0000
+PEDRFA20,23,Electrofishing (individuals),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],4,0.0241
+PEDRFA20,24,Electrofishing (individuals),Pimephales promelas,fathead minnow,,fathead minnow (Pimephales promelas),Cyprinidae: Pimephales promelas (fathead minnow) [Introduced],0,0.0000
+PEDRFA20,25,Electrofishing (individuals),Pomoxis nigromaculatus,black crappie,,black crappie (Pomoxis nigromaculatus),Centrarchidae: Pomoxis nigromaculatus (black crappie) [Introduced],0,0.0000
+PEDRFA20,26,Electrofishing (individuals),Ptychocheilus grandis,Sacramento pikeminnow,Sacramento pikeminnow,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],93,0.5602
+PEDRFA20,27,eDNA (reads),Ameiurus catus,white catfish,,white catfish (Ameiurus catus),Ictaluridae: Ameiurus catus (white catfish) [Introduced],0,0.0000
+PEDRFA20,28,eDNA (reads),Ameiurus melas/nebulosos,black/brown bullhead,,black/brown bullhead (Ameiurus melas),Ictaluridae: A. melas/nebulosus (bullhead) [Introduced],0,0.0000
+PEDRFA20,29,eDNA (reads),Carassius auratus,goldfish,,goldfish (Carassius auratus),Cyprinidae: Carassius auratus (goldfish) [Introduced],0,0.0000
+PEDRFA20,30,eDNA (reads),Catostomus occidentalis,Sacramento sucker,Sacramento sucker,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],27947,0.1719
+PEDRFA20,31,eDNA (reads),Cottus asper,prickly sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],640,0.0039
+PEDRFA20,32,eDNA (reads),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0.0000
+PEDRFA20,33,eDNA (reads),Gambusia affinis,western mosquitofish,,western mosquitofish (Gambusia affinis),Poeciliidae: Gambusia affinis (western mosquitofish) [Introduced],5468,0.0336
+PEDRFA20,34,eDNA (reads),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0.0000
+PEDRFA20,35,eDNA (reads),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],6654,0.0409
+PEDRFA20,36,eDNA (reads),Lavinia exilicauda,hitch,,hitch (Lavinia exilicauda),Cyprinidae: Lavinia exilicauda (hitch) [Native],0,0.0000
+PEDRFA20,37,eDNA (reads),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],0,0.0000
+PEDRFA20,38,eDNA (reads),Lepomis gulosus,warmouth,,warmouth (Lepomis gulosus),Centrarchidae: L. gulosus (warmouth) [Introduced],0,0.0000
+PEDRFA20,39,eDNA (reads),Lepomis macrochirus,bluegill,,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],1342,0.0083
+PEDRFA20,40,eDNA (reads),Lepomis microlophus,redear sunfish,,redear sunfish (Lepomis microlophus),Centrarchidae: L. microlophus (redear sunfish) [Introduced],1336,0.0082
+PEDRFA20,41,eDNA (reads),Lepomis sp. ,undetermined sunfish,,undetermined sunfish,Centrarchidae: Lepomis sp. (undetermined sunfish) [Introduced],0,0.0000
+PEDRFA20,42,eDNA (reads),Menidia beryllina complex,silverside,,silverside (Menidia beryllina),Atherinopsidae: Menidia beryllina complex (silverside) [Introduced],0,0.0000
+PEDRFA20,43,eDNA (reads),Micropterus dolomieu,smallmouth bass,,smallmouth bass (Micropterus dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],152,0.0009
+PEDRFA20,44,eDNA (reads),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],44705,0.2750
+PEDRFA20,45,eDNA (reads),Notemigonus crysoleucas,golden shiner,,golden shiner (Notemigonus crysoleucas),Cyprinidae: Notemigonus crysoleucas (golden shiner) [Introduced],0,0.0000
+PEDRFA20,46,eDNA (reads),Oncorhynchus mykiss ,rainbow trout,,rainbow trout (Oncorhynchus mykiss ),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0.0000
+PEDRFA20,47,eDNA (reads),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0.0000
+PEDRFA20,48,eDNA (reads),Orthodon microlepidotus,Sacramento blackfish,,Sacramento blackfish (Orthodon microlepidotus),Cyprinidae: Orthodon microlepidotus (Sacramento blackfish) [Native],0,0.0000
+PEDRFA20,49,eDNA (reads),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],0,0.0000
+PEDRFA20,50,eDNA (reads),Pimephales promelas,fathead minnow,,fathead minnow (Pimephales promelas),Cyprinidae: Pimephales promelas (fathead minnow) [Introduced],0,0.0000
+PEDRFA20,51,eDNA (reads),Pomoxis nigromaculatus,black crappie,,black crappie (Pomoxis nigromaculatus),Centrarchidae: Pomoxis nigromaculatus (black crappie) [Introduced],0,0.0000
+PEDRFA20,52,eDNA (reads),Ptychocheilus grandis,Sacramento pikeminnow,Sacramento pikeminnow,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],74333,0.4572

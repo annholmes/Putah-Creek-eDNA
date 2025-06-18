@@ -1,0 +1,43 @@
+﻿collecting_event,number,method,species,common_name,common_name_label,names,names_by_family,frequency,relative_abundance
+RRAFSP20,1,eDNA (reads),Ptychocheilus grandis,Sacramento pikeminnow,Sacramento pikeminnow,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],85065,0.4884
+RRAFSP20,2,eDNA (reads),Catostomus occidentalis,Sacramento sucker,Sacramento sucker,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],62998,0.3617
+RRAFSP20,3,eDNA (reads),Micropterus salmoides,largemouth bass,,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],10433,0.0599
+RRAFSP20,4,eDNA (reads),Cottus asper,pricky sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],987,0.0057
+RRAFSP20,5,eDNA (reads),Hysterocarpus traskii,tule perch,tule perch,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],11416,0.0655
+RRAFSP20,6,eDNA (reads),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],1511,0.0087
+RRAFSP20,7,eDNA (reads),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],606,0.0035
+RRAFSP20,8,eDNA (reads),Micropterus dolomieu,smallmouth bass,,smallmouth bass (M. dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],1172,0.0067
+RRAFSP20,9,Fyke (biomass),Ptychocheilus grandis,Sacramento pikeminnow,Sacramento pikeminnow,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],231.7,0.8662
+RRAFSP20,10,Fyke (biomass),Catostomus occidentalis,Sacramento sucker,,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],0,0
+RRAFSP20,11,Fyke (biomass),Micropterus salmoides,largemouth bass,largemouth bass,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],35.8,0.1338
+RRAFSP20,12,Fyke (biomass),Cottus asper,pricky sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],0,0
+RRAFSP20,13,Fyke (biomass),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],0,0
+RRAFSP20,14,Fyke (biomass),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],0,0
+RRAFSP20,15,Fyke (biomass),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],0,0
+RRAFSP20,16,Fyke (biomass),Micropterus dolomieu,smallmouth bass,,smallmouth bass (M. dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0
+RRAFSP20,17,Fyke (individuals),Ptychocheilus grandis,Sacramento pikeminnow,Sacramento pikeminnow,Sacramento pikeminnow (Ptychocheilus grandis),Cyprinidae: Ptychocheilus grandis (Sacramento pikeminnow) [Native],25,0.9259
+RRAFSP20,18,Fyke (individuals),Catostomus occidentalis,Sacramento sucker,,Sacramento sucker (Catostomus occidentalis),Catostomidae: Catostomus occidentalis (Sacramento sucker) [Native],0,0
+RRAFSP20,19,Fyke (individuals),Micropterus salmoides,largemouth bass,,largemouth bass (Micropterus salmoides),Centrarchidae: M. salmoides (largemouth bass)  [Introduced],2,0.0741
+RRAFSP20,20,Fyke (individuals),Cottus asper,pricky sculpin,,prickly sculpin (Cottus asper),Cottidae: Cottus asper (prickly sculpin) [Native],0,0
+RRAFSP20,21,Fyke (individuals),Hysterocarpus traskii,tule perch,,tule perch (Hysterocarpus traskii),Embiotocidae: Hysterocarpus traskii (tule perch) [Native],0,0
+RRAFSP20,22,Fyke (individuals),Lepomis cyanellus,green sunfish,,green sunfish (Lepomis cyanellus),Centrarchidae: Lepomis cyanellus (green sunfish) [Introduced],0,0
+RRAFSP20,23,Fyke (individuals),Percina macrolepida,bigscale logperch,,bigscale logperch (Percina macrolepida),Percidae: Percina macrolepida (bigscale logperch) [Introduced],0,0
+RRAFSP20,24,Fyke (individuals),Micropterus dolomieu,smallmouth bass,,smallmouth bass (M. dolomieu),Centrarchidae: Micropterus dolomieu (smallmouth bass) [Introduced],0,0
+RRAFSP20,25,eDNA (reads),Lepomis macrochirus,bluegill,,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],0,0
+RRAFSP20,26,Fyke (biomass),Lepomis macrochirus,bluegill,,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],0,0
+RRAFSP20,27,Fyke (individuals),Lepomis macrochirus,bluegill,,bluegill (Lepomis macrochirus),Centrarchidae: L. macrochirus (bluegill) [Introduced],0,0
+RRAFSP20,28,eDNA (reads),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0
+RRAFSP20,29,Fyke (biomass),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0
+RRAFSP20,30,Fyke (individuals),Gasterosteus aculeatus,threespine stickleback,,threespine stickleback (Gasterosteus aculeatus),Gasterosteidae: Gasterosteus aculeatus (threespine stickleback) [Native],0,0
+RRAFSP20,31,eDNA (reads),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0
+RRAFSP20,32,Fyke (biomass),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0
+RRAFSP20,33,Fyke (individuals),Cyprinus carpio,common carp,,common carp (Cyprinus carpio),Cyprinidae: Cyprinus carpio (common carp) [Introduced],0,0
+RRAFSP20,34,eDNA (reads),Oncorhynchus mykiss,rainbow trout,,rainbow trout (Oncorhynchus mykiss),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0
+RRAFSP20,35,Fyke (biomass),Oncorhynchus mykiss,rainbow trout,,rainbow trout (Oncorhynchus mykiss),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0
+RRAFSP20,36,Fyke (individuals),Oncorhynchus mykiss,rainbow trout,,rainbow trout (Oncorhynchus mykiss),Salmonidae: Oncorhynchus mykiss (rainbow trout) [Native],0,0
+RRAFSP20,37,eDNA (reads),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0
+RRAFSP20,38,Fyke (biomass),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0
+RRAFSP20,39,Fyke (individuals),Oncorhynchus tshawytscha,Chinook salmon,,Chinook salmon (Oncorhynchus tshawytscha),Salmonidae: O. tshawytscha (Chinook salmon) [Native],0,0
+RRAFSP20,40,eDNA (reads),Entosphenus tridentata,Pacific lamprey,,Pacific lamprey (Entosphenus tridentata),Petromyzontidae: Entosphenus tridentata (Pacific lamprey),0,0
+RRAFSP20,41,Fyke (biomass),Entosphenus tridentata,Pacific lamprey,,Pacific lamprey (Entosphenus tridentata),Petromyzontidae: Entosphenus tridentata (Pacific lamprey),0,0
+RRAFSP20,42,Fyke (individuals),Entosphenus tridentata,Pacific lamprey,,Pacific lamprey (Entosphenus tridentata),Petromyzontidae: Entosphenus tridentata (Pacific lamprey),0,0
