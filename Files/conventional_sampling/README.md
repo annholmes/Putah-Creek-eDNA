@@ -1,7 +1,7 @@
 # 🐟 Conventional Fish Sampling Data (2020–2021)
 
 This folder contains data from conventional sampling of fish assemblages in Putah Creek (2020-2021) that was compared to eDNA results in the paper *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*.
-.
+
 
 ## 🗂️ Files
 
