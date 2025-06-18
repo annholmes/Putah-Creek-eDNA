@@ -60,5 +60,5 @@ This repository was created and maintained by [Ann Holmes](https://www.drannholm
 🔗 ORCID: [0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)  
 🌐 Personal researech website: www.drannholmes.com  
 
-###✉️ Contact
+### ✉️ Contact
 If you have questions about this repository or the associated manuscript, please contact me at: aholmes@ucdavis.edu
