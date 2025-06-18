@@ -15,7 +15,7 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 ### Data Fields
 
 - **collecting_event**: Unique identifier for each sampling instance, constructed from:  
-  • Site code (see [Table 1](../Tables/Table1_Putah_Creek_sites.md) and Jacinto et al. 2022, 2023)  
+  • Site code (see [Table 1](../../Tables/Table1_Putah_Creek_sites.md)) and Jacinto et al. 2022, 2023)  
   • Season: `SP` (Spring) or `FA` (Fall)  
   • Year: `20` or `21`  
   • For rotary screw trap data, the month is included (`APR` or `MAY`) due to multiple sampling events  
