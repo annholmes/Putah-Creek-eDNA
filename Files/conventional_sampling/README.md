@@ -37,6 +37,7 @@ https://doi.org/10.1002/eap.2868
 
 **Miner, M. C.** (2022).  
 *Migratory phenology and spatial distributions of a recovering Chinook salmon run in a flow-regulated creek: Considerations for management.* MS Thesis, University of California, Davis.
+https://escholarship.org/uc/item/93z321vk
 
 **Rypel, A. L., Miner, M. C., Hitt, L., Holmes, A., Baird, S. E., Cocherell, D. E., Schreier, A. M., & Fangue, N. A.** (2022).  
 *Origin and abundance of Chinook salmon in Putah Creek.* Annual report to the Solano County Water Agency 2021/2022.
