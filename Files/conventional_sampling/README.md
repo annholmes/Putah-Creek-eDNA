@@ -12,6 +12,38 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 | `PutahCk_fyke_trap_comp_2020.csv`             | Fyke Trap           | 2020 | Russell Ranch   | Spring | Single trap |
 | `PutahCk_rotary_screw_trap_comp_2021.csv`     | Rotary Screw Trap   | 2021 | Step Weir 2     | Spring | Single trap |
 
+### Data Fields
+
+- **collecting_event**: Unique identifier for each sampling instance, constructed from:  
+  • Site code (see [Table 1](../Tables/Table1_Putah_Creek_sites.md) and Jacinto et al. 2022, 2023)  
+  • Season: `SP` (Spring) or `FA` (Fall)  
+  • Year: `20` or `21`  
+  • For rotary screw trap data, the month is included (`APR` or `MAY`) due to multiple sampling events  
+    (e.g., `SW2DSP21APR`)
+
+- **method**: Sampling method and measurement type. One of:  
+  • `eDNA (reads)` – sequence reads from environmental DNA  
+  • `Fyke (individuals)` – individual fish count from fyke trap  
+  • `Fyke (biomass)` – biomass (g) from fyke trap  
+  • `Rotary Screw Trap (individuals)` – individual fish count  
+  • `Rotary Screw Trap (biomass)` – biomass (g)  
+  • `Electrofishing (individuals)` – individual fish count; biomass was not measured
+
+- **species**: Binomial name of the taxon
+
+- **common_name**: Common name of the taxon
+
+- **common_name_label**: Field used for labeling selected species in plots
+
+- **names**: Formatted species label for figures and tables
+
+- **names_by_family**: Label including family grouping, used for organizing species in legends
+
+- **frequency**: Count of individuals (trap/electrofishing) or sequence reads (eDNA); biomass in grams (when available) 
+
+- **relative_abundance**: Proportion within the sample (based on the `frequency` field)
+
+
 ## 📊 Data Collection and Funding
 
 • Fyke trap and rotary screw trap data were collected and provided by Mackenzie Miner and Andrew Rypel.  
