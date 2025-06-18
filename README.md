@@ -16,7 +16,7 @@ This study applied eDNA metabarcoding to (1) elucidate spatiotemporal trends in 
   Core processed data and resources, in the following subfolders:
   - `analysis_data/` – Processed eDNA data including ASV tables, taxonomy, metadata, and eDNA index.
   - `conventional_sampling/` – Fish count and biomass data from electrofishing and traps at sites paired with eDNA sampling.
-  - `reference_sequence_database/` – Custom regional reference database used for taxonomic assignment, based on Nagarajan, R., Holmes, A., & Schreier, A. (2023) and GenBank records.
+  - `reference_sequence_database/` – Custom regional reference database used for taxonomic assignment, based on Nagarajan, Holmes, & Schreier. (2023) and GenBank records.
 
 - **Scripts/**  
   R scripts used in bioinformatic processing, statistical analysis, and figure generation.
