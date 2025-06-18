@@ -1,6 +1,6 @@
 # 📍 Table 1. Site Metadata
 
-This file contains metadata for environmental DNA sampling sites along Putah Creek, including site names, codes, geographic coordinates, and paired conventional surveys.
+This file contains metadata for environmental DNA sampling sites along Putah Creek from 2019-2021, including site names, codes, geographic coordinates, and paired conventional surveys conducted 2020-2021.
 
 ## 📌 Notes
 Site codes for electrofishing sites follow the naming conventions used in:
