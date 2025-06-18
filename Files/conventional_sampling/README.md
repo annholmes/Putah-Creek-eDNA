@@ -44,5 +44,5 @@ https://escholarship.org/uc/item/93z321vk
 
 ## 📌 Notes
 
-• Electrofishing data not paired with eDNA are not shown.  
-• Some eDNA sites were not sampled using traps or electrofishing.
+• Electrofishing data for sites not paired with eDNA are not provided here.  
+• Some eDNA sites were not sampled using conventional methods.
