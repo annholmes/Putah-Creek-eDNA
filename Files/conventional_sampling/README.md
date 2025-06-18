@@ -24,10 +24,11 @@ This folder contains data from conventional sampling of fish assemblages in Puta
 
 **Jacinto, E., Fangue, N. A., Cocherell, D. E., Kiernan, J. D., Moyle, P. B., & Rypel, A. L.** (2023).  
 *Increasing stability of a native freshwater fish assemblage following flow rehabilitation.* *Ecological Applications, 33*(5), e2868.
+https://doi.org/10.1002/eap.2868
 
 **Jacinto, E., Fangue, N. A., Cocherell, D. E., Kiernan, J. D., Moyle, P. B., & Rypel, A. L.** (2022).  
 *Increasing Stability of a Native Freshwater Fish Assemblage Following Flow Rehabilitation* [Dataset]. **Zenodo**. https://doi.org/10.5281/zenodo.7822308  
-> This Zenodo archive includes electrofishing data from 1993–2017. The 2020–2021 data in this repository were collected using similar methods.
+> This Zenodo archive includes electrofishing data from 1993–2017 used for analysis by Jacinto et al. (2023). The electrofishing data from 2020–2021 in this repository are part of the same long-term survey.
 
 ### Trap methods
 
