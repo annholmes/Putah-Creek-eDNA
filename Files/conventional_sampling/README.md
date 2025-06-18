@@ -29,17 +29,17 @@ This folder contains data from conventional sampling of fish assemblages in Puta
   • `Rotary Screw Trap (biomass)` – biomass (g)  
   • `Electrofishing (individuals)` – individual fish count; biomass was not measured
 
-- **species**: Binomial name of the taxon
+- **species**: Binomial of the taxon
 
 - **common_name**: Common name of the taxon
 
-- **common_name_label**: Field used for labeling selected species in plots
+- **common_name_label**: Selected taxa for for figure labeling
 
-- **names**: Formatted species label for figures and tables
+- **names**: Formatted common name and binomial for figure labeling
 
-- **names_by_family**: Label including family grouping, used for organizing species in legends
+- **names_by_family**: Taxon with family grouping for figure labeling
 
-- **frequency**: Count of individuals (trap/electrofishing) or sequence reads (eDNA); biomass in grams (when available) 
+- **frequency**: Count of individuals (traps, electrofishing) or sequence reads (eDNA); biomass in grams (traps) 
 
 - **relative_abundance**: Proportion within the sample (based on the `frequency` field)
 
