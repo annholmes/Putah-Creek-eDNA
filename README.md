@@ -57,7 +57,7 @@ If you use the custom reference sequence database, also cite:
 ## 📝 Author Information
 
 This repository was created and maintained by [Ann Holmes](https://www.drannholmes.com)  
-🔗 ORCID: [0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)  
+🔗 ORCID: [0000-0003-4775-868X](https://orcid.org/0000-0003-4775-868X)  
 🌐 Personal researech website: www.drannholmes.com  
 
 ### ✉️ Contact
