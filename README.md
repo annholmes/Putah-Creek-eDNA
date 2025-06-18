@@ -1,4 +1,4 @@
-# Spatiotemporal Stability of Fish Communities in a Regulated Stream: Insights from Environmental DNA
+# 🧬 🐟 Spatiotemporal Stability of Fish Communities in a Regulated Stream: Insights from Environmental DNA
 
 This repository contains R scripts, figures, metadata, resources and processed data supporting the manuscript:  
 **_Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_**.
@@ -7,7 +7,7 @@ This study applied eDNA metabarcoding to (1) elucidate spatiotemporal trends in 
 
 ---
 
-## 📁 Repository Structure
+## 🗂️ Repository Structure
 
 - **Figures/**  
   Figures from the manuscript.
@@ -26,7 +26,7 @@ This study applied eDNA metabarcoding to (1) elucidate spatiotemporal trends in 
 
 ---
 
-## 📂 Data Availability
+## 💾 Data Availability
 
 Raw Illumina sequencing data will be archived in the **Dryad Digital Repository**.  
 **[DOI pending]** — link to be added.
@@ -54,6 +54,10 @@ If you use the custom reference sequence database, also cite:
 
 ---
 
-## ✉️ Contact
+## 📝 Author Information & ✉️ Contact
 
-If you have questions about the repository or data, please contact Ann Holmes aholmes@ucdavis.edu.
+This repository was created and maintained by [Ann Holmes](https://www.drannholmes.com)  
+🔗 ORCID: [0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)  
+🌐 Personal researech website: www.drannholmes.com  
+
+If you have questions about this repository or the associated manuscript, please contact me at: aholmes@ucdavis.edu
