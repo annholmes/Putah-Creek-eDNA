@@ -19,6 +19,6 @@ Map of Putah Creek (Solano and Yolo Counties, California, US) showing eDNA sampl
 
 ## Sequencing data
 
-### 🧬 Supplementary Table S1. Illumina sequencing data.
+### 🧬 Supplementary Table S1. Illumina sequencing output
 
-Read ccounts by sample.
+Read counts by sample before and after quality control.
