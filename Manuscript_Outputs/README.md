@@ -6,7 +6,7 @@ This folder contains draft figures, tables, and supplementary files for *Spatiot
 
 ## study_design_and_sequencing
 
-# 📍 Table 1. Site Metadata
+### 📍 Table 1. Site Metadata
 
 This file contains metadata for environmental DNA sampling sites along Putah Creek from 2019-2021, including site names, codes, geographic coordinates, and paired conventional surveys conducted 2020-2021.
 
@@ -16,19 +16,19 @@ Jacinto, E., N. A. Fangue, D. E. Cocherell, J. Kiernan, P. B. Moyle, and A. L. R
 
 Jacinto, E., Fangue, N. A., Cocherell, D. E., Kiernan, J. D., Moyle, P. B., & Rypel, A. L. (2023). *Increasing stability of a native freshwater fish assemblage following flow rehabilitation*. *Ecological Applications*, 33(5), e2868. https://doi.org/10.1002/eap.2868
 
-# 🗺️ Figure 1. Site map. 
+### 🗺️ Figure 1. Site map. 
 Map of Putah Creek (Solano and Yolo Counties, California, US) showing eDNA sampling sites.
 
-# 🐟 Figure 2. Detection of fish species
+### 🐟 Figure 2. Detection of fish species
 Presence/absense of historically occurring fish species in eDNA metabarcoding data with phylogenetic tree showing relatedness at the MiFish barcode.
 
-# 📊 Figure 3.
+### 📊 Figure 3.
 Non-metric Multidimensional Scaling (NMDS) plot of eDNA samples based on Bray-Curtis dissimilarity.
 
-# 📉 Figure 4. 
+### 📉 Figure 4. 
 Modified rank abundance curves for eDNA sequencing data.
 
-# 🏆 Figure 5.
+### 🏆 Figure 5.
 Performance of fish species in gradient forest model. High performing species had >0.50 R2 importance following a broken stick model. Three species lacked sufficient data for the model.
 
 📌 Folder notes
