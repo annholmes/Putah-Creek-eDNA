@@ -4,7 +4,7 @@ This folder contains draft figures, tables, and supplementary files for *Spatiot
 
 ## Subfolders
 
-### 📝 `study_design_and_sequencing`
+### 📝 `sites_and_sequencing`
 
 ### 📊 `community_and_spatiotemporal_dynamics`
 
