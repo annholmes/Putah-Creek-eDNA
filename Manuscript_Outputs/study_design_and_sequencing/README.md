@@ -1,4 +1,4 @@
-# Study Design and Sequencing
+# Sites and Sequencing
 
 Figures, Tables, and Supplementary Files related to sample sites and Illumina sequencing raw output.
 
