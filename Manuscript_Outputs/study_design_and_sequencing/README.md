@@ -1,4 +1,6 @@
-# study_design_and_sequencing Folder
+# Study Design and Sequencing
+
+Figures, Tables, and Supplementary Files related to sample sites and Illumina sequencing raw output.
 
 ## Site data
 
