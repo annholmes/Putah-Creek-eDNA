@@ -4,13 +4,13 @@ This folder contains draft figures, tables, and supplementary files for *Spatiot
 
 ## Subfolders
 
-### 📝 `sites_and_sequencing`
+### 📝 `1_sites_and_sequencing`
 
-### 📊 `community_and_spatiotemporal_dynamics`
+### 📊 `2_community_and_spatiotemporal_dynamics`
 
-### 🎣 `comparison_with_conventional_sampling`
+### 🎣 `3_comparison_with_conventional_sampling`
 
-### 📉 `reordering_and_species-specific_responses`
+### 📉 `4_reordering_and_species-specific_responses`
 
 ---
 
