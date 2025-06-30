@@ -1,4 +1,4 @@
-# 🧬 🐟 Spatiotemporal Stability of Fish Communities in a Regulated Stream: Insights from Environmental DNA
+# Spatiotemporal Stability of Fish Communities in a Regulated Stream: Insights from Environmental DNA
 
 This repository contains R scripts, figures, metadata, resources and processed data supporting the manuscript:  
 **_Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_**.
