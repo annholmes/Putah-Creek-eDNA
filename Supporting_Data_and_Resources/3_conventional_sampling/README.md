@@ -65,6 +65,9 @@ https://doi.org/10.1002/eap.2868
 
 ### Trap methods
 
+**Hitt, L. G., Willmes, M., Whitman, G., Miner, M. C., Jeffres, C., Johnson, R. C., Cocherell, D. E., Fangue, N. A., & Rypel, A. L.** (2025). Early evidence for establishment of a Chinook salmon population in a restored watershed. Ecosphere, 16(3), e70207.
+https://doi.org/10.1002/ecs2.70207
+
 **Miner, M. C., Jacinto, E., Holmes, A., Cocherell, D. E., Baird, S. E., Schreier, A. M., Fangue, N. A., & Rypel, A. L.** (2020).  
 *Origin and abundance of Chinook salmon in Putah Creek.* Annual report to the Solano County Water Agency, September 2020.
 
