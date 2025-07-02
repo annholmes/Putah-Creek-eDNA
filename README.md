@@ -21,7 +21,7 @@ This is a community ecology study of freshwater fishes in in Putah Creek (Califo
 
 ### `Supporting_Data_and_Resources/`  
   Core processed data and resources, in the following subfolders:
-  - `1_reference_sequence_database/` – Custom regional reference database used for taxonomic assignment, based on Nagarajan, Holmes, & Schreier. (2023) and GenBank records. **This is an open access resource, see citation information below.**
+  - `1_reference_sequence_database/` – Custom regional reference database used for taxonomic assignment, based on Nagarajan, Holmes, & Schreier (2023) and GenBank records. **This is an open access resource, see citation information below.**
   - `2_analysis_data/` – Processed eDNA data including ASV tables, taxonomy, metadata, and eDNA index.
   - `3_conventional_sampling/` – Fish count and biomass data from electrofishing and traps at sites paired with eDNA sampling.
 
