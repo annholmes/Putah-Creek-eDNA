@@ -26,7 +26,10 @@ Bar plots of fish communities showing relative red abundance.
 
 ## Spatiotemporal dynamics
 
-### 🧬 Figure 3. Non-metric Multidimensional Scaling (NMDS) plot
+### 🌐 Figure 3. Non-metric Multidimensional Scaling (NMDS) plot
 
 NMDS plot based on Bray-Curtis dissimilarity.
 
+### 🌐 Supplementary Table S1. Ecological metrics based on eDNA
+
+Species richness, Shannon diversity index, and evenness.
