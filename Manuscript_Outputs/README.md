@@ -4,19 +4,21 @@ This folder contains draft figures, tables, and supplementary files for *Spatiot
 
 ## Subfolders
 
-- ** 📝 `1_sites_and_sequencing`/**  
+### 📝 `1_sites_and_sequencing/`
+  Sampling site metadata, sequencing summaries, and diversity metrics (e.g., richness, Shannon diversity).
 
-### 📝 `1_sites_and_sequencing`
+### 📊 `2_community_and_spatiotemporal_dynamics/`
+  Community composition, NMDS ordination, and PERMANOVA analyses.
 
-### 📊 `2_community_and_spatiotemporal_dynamics`
+### 🎣 `3_comparison_with_conventional_sampling/`
+  Comparisons eDNA and conventional fish sampling results.
 
-### 🎣 `3_comparison_with_conventional_sampling`
-
-### 📉 `4_reordering_and_species-specific_responses`
+### 📉 `4_reordering_and_species-specific_responses/`
+  Gradient forest model, rank abundance curves (Whittaker plots) and exploratory mean rank shift.
 
 ---
 
-For more detailed descriptions and other relevant resources, please see the README file in each subfolder.
+For more file descriptions, please see the README file in each subfolder.
 
 
 # MOVE TO SUBFOLDERS
