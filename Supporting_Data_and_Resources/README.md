@@ -4,14 +4,14 @@ This folder contains processed data, metadata, and resources used in *Spatiotemp
 
 ## Subfolders
 
-### 📊 `analysis_data`
-Contains sample metadata and processed data from bioinformatic pipeline.
+### 📊 `analysis_data/`
+  Sample metadata and processed data from bioinformatic pipeline.
 
-### 🎣 `conventional_sampling`
-Contains data from conventional fish sampling: fyke trap, rotary screw trap, and electrofishing surveys.
+### 🎣 `conventional_sampling/`
+  Data from conventional fish sampling: fyke trap, rotary screw trap, and electrofishing surveys.
 
 ### 🗃 `reference_sequence_database` 
-Contains the custom 12S MiFish reference sequence database used for taxonomic assignment.
+  Custom 12S MiFish reference sequence database used for taxonomic assignment.
 
 ---
 
