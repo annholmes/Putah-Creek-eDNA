@@ -4,7 +4,7 @@ Figures, Tables, and Supplementary Files related to sample sites and Illumina se
 
 ## Site data
 
-### 📍 Table 1. Site metadata
+### 🗺️ Table 1. Site metadata
 
 This file contains metadata for environmental DNA sampling sites along Putah Creek from 2019-2021, including site names, codes, geographic coordinates, and paired conventional surveys conducted 2020-2021.
 
