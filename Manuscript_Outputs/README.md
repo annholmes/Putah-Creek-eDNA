@@ -18,7 +18,7 @@ This folder contains draft figures, tables, and supplementary files for *Spatiot
 
 ---
 
-For more file descriptions, please see the README file in each subfolder.
+Please see the README file in each subfolder for file descriptions.
 
 
 # MOVE TO SUBFOLDERS
