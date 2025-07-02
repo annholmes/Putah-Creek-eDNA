@@ -15,4 +15,4 @@ This folder contains processed data, metadata, and resources used in *Spatiotemp
 
 ---
 
-For more detailed descriptions and other relevant resources, please see the README file in each subfolder.
+Please see the README file in each subfolder for file descriptions.
