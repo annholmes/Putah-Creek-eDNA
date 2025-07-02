@@ -9,17 +9,17 @@ This is a community ecology study of freshwater fishes in in Putah Creek (Califo
 
 ## 🗂️ Repository Structure
 
-- **Manuscript_Outputs/**  
+### `Manuscript_Outputs/`
   Figures, tables, and supplementary files, in the following subfolders:
   - `1_sites_and_sequencing/` – Sampling site metadata, sequencing summaries, and diversity metrics (e.g., richness, Shannon diversity).
   - `2_community_and_spatiotemporal_dynamics/` – Community composition, NMDS ordination, and PERMANOVA analyses.
   - `3_comparison_with_conventional_sampling/` – Comparisons eDNA and conventional fish sampling results.
   - `4_reordering_and_species_responses/` – Gradient forest model, rank abundance curves (Whittaker plots) and exploratory mean rank shift.
 
-- **Scripts/**  
+### `Scripts/`  
   R scripts used in bioinformatic processing, statistical analysis, and figure generation.
 
-- **Supporting_Data_and_Resources/**  
+### `Supporting_Data_and_Resources/`  
   Core processed data and resources, in the following subfolders:
   - `1_reference_sequence_database/` – Custom regional reference database used for taxonomic assignment, based on Nagarajan, Holmes, & Schreier. (2023) and GenBank records.
   - `2_analysis_data/` – Processed eDNA data including ASV tables, taxonomy, metadata, and eDNA index.
