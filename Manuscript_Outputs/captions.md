@@ -13,7 +13,7 @@
 # Figure captions:
 
 ## Figure 1
-**Figure 1.** 
+**Figure 1.** Map of lower Putah Creek (Solano and Yolo Counties, California) showing eDNA sampling sites 2019-2021. Site codes are shown in Table 1.
 
 ## Figure 2
 **Figure 2.** 
