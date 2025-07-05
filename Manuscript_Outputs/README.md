@@ -1,6 +1,6 @@
 # Manuscript Outputs Folder
 
-This folder contains draft figures, tables, and supplementary files for *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*.
+⚠️ **Disclaimer**: This folder contains working versions of files for transparency and internal organization. Final, journal-approved versions will be available with the published article and archived on Zenodo. Per journal policy, this content is not part of the formally archived dataset or code repository.
 
 ## Subfolders
 
