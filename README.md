@@ -1,7 +1,17 @@
 # Spatiotemporal Stability of Fish Communities in a Regulated Stream: Insights from Environmental DNA
 
-This repository contains R scripts, figures, metadata, resources and processed data supporting the manuscript:  
+This repository contains R scripts, processed data, and resources supporting the manuscript:  
 **_Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_**.
+
+⚠️ **Disclaimer**  
+This repository also includes working versions of figures, tables, and supplemental files for transparency and internal organization.  
+**Final, journal-approved versions of data and code will be archived with a persistant identifier (DOI) upon acceptance of the manuscript** in following the Ecological Society of America’s Open Research Policy:
+
+- **Raw sequencing data** will be archived on **Dryad**  
+- **Code and supporting data** will be archived via **Zenodo** with a DOI  
+- This GitHub repository does _not_ constitute the formal archive required by the journal
+
+---
 
 This is a community ecology study of freshwater fishes in in Putah Creek (California, US), a remnant habitat for formerly abundant native freshwater and anadromous fishes ([Moyle et al. 1998](https://doi.org/10.1577/1548-8446(1998)023%3C0006:FHADJF%3E2.0.CO;2)) and model system for stream restoration ([Kiernan et al. 2012](https://doi.org/10.1890/11-0480.1); [Jacinto et al. 2023](https://doi.org/10.1002/eap.2868)). The objectives of this study are to (1) elucidate spatiotemporal trends in fish assemblages along the longitudinal profile of a stream where flows are managed to benefit native anadromous fishes; (2) compare eDNA results with long-term standardized monitoring techniques at a subset of sites; and (3) assess how eDNA might be used to inform stream management to benefit native fishes. This work demonstrates the value of eDNA as a complement to conventional sampling for understanding community assembly dynamics in streams, including responses to ecosystem rehabilitation and flow management.
 
@@ -59,7 +69,5 @@ If you use the custom reference sequence database, also cite:
 
 This repository was created and maintained by [Ann Holmes](https://www.drannholmes.com)  
 🔗 ORCID: [0000-0003-4775-868X](https://orcid.org/0000-0003-4775-868X)  
-🌐 Personal researech website: www.drannholmes.com  
-
-### ✉️ Contact
-If you have questions about this repository or the associated manuscript, please contact me at: aholmes@ucdavis.edu
+🌐 Personal research website: www.drannholmes.com  
+✉️ Contact: aholmes@ucdavis.edu
