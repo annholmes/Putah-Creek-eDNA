@@ -41,10 +41,9 @@ This is a community ecology study of freshwater fishes in in Putah Creek (Califo
 
 ## 💾 Data Availability
 
-Raw Illumina sequencing data will be archived in the **Dryad Digital Repository**.  
-**[DOI pending]** — link to be added.
-
-Processed data, reference materials, and analysis code are included in this GitHub repository.
+- Raw Illumina sequencing data will be archived in the Dryad Digital Repository ([DOI to be added]).
+- Formal archival of scripts, supporting data, and resources with a persistent DOI will be done via Zenodo upon manuscript acceptance ([DOI to be added]).
+- Materials in this GitHub repository are provided as working versions for transparency and internal organization only.
 
 ---
 
