@@ -7,7 +7,7 @@ This repository contains scripts, data, and resources supporting the manuscript:
 Final, journal-approved versions of scripts, data, and resources will be archived with persistent identifiers (DOIs) following the [Ecological Society of America’s Open Research Policy](https://esa.org/publications/data-policy/):
 
 - **Scripts, supporting data, and resources** will be archived via **Zenodo** ([DOI to be added]).
-- **Raw sequencing data** will be archived via **Dryad** ([DOI to be added]).
+- **Raw sequencing data** will be archived via **Dryad Digital Repository** ([DOI to be added]).
 - This repository includes *working versions* of figures, tables, and supplementary files for transparency and internal organization only.
 - This GitHub repository does *not* constitute the formal archive required by the journal.
 
@@ -41,8 +41,8 @@ This is a community ecology study of freshwater fishes in Putah Creek (Californi
 
 ## 💾 Data Availability
 
-- Raw Illumina sequencing data will be archived with a DOI via Dryad Digital Repository ([DOI to be added]).
-- Scripts, data, and resources will be formally archived with a DOI via Zenodo upon manuscript acceptance. ([DOI to be added]).
+- Scripts, data, and resources will be formally archived with a DOI via Zenodo (upon manuscript acceptance [DOI to be added]).
+- Raw Illumina sequencing data will be archived with a DOI via Dryad ([DOI to be added]).
 - Materials in this GitHub repository are provided as working versions for transparency and internal organization only, not as a formal archive.
 
 ---
