@@ -49,11 +49,11 @@ This is a community ecology study of freshwater fishes in Putah Creek (Californi
 
 ## 📚 Citation
 
-If you use materials from this repository, please cite:
+If you use materials from this study, please cite the published manuscript when available:
 
 > Holmes, A., et al. (in prep). *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*. ([DOI to be added]).
 
-If you use the custom reference sequence database, also cite:
+If you use the custom 12S rRNA gene reference sequence database, please also cite this foundation resource:
 
 > Nagarajan, R., Holmes, A., & Schreier, A. (2023). Reference sequence database for eDNA metabarcoding of San Francisco estuary fishes and invertebrates [Dataset]. Dryad. https://doi.org/10.5061/dryad.0p2ngf25z
 
