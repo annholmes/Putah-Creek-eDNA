@@ -3,8 +3,7 @@
 This repository contains scripts, data, and resources supporting the manuscript:  
 **_Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_**.
 
-⚠️ **Disclaimer**  
-Final, journal-approved versions of scripts, data, and resources will be archived with persistent identifiers (DOIs) following the [Ecological Society of America’s Open Research Policy](https://esa.org/publications/data-policy/):
+✅ **Open Science Statement** Final, journal-approved versions of scripts, data, and resources will be archived with persistent identifiers (DOIs) following the [Ecological Society of America’s Open Research Policy](https://esa.org/publications/data-policy/):
 
 - **Scripts, supporting data, and resources** will be archived via **Zenodo** ([DOI to be added]).
 - **Raw sequencing data** will be archived via **Dryad Digital Repository** ([DOI to be added]).
