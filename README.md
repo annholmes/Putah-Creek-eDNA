@@ -3,7 +3,7 @@
 This repository contains scripts, supporting data, and resources supporting the manuscript:  
 **_Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_**.
 
-✅ **Open Science Compliance** 
+✅ **Open Science Compliance**  
 This repository includes *working versions* of research materials for transparency and internal organization only. It is *not* a formal archive.
 
 - Final versions of **scripts, supporting data, and resources** will be archived via **Zenodo** ([DOI to be added]) following the [Ecological Society of America’s Open Research Policy](https://esa.org/publications/data-policy/).
