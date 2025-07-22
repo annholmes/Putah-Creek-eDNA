@@ -1,6 +1,6 @@
 # Scripts Folder
 
-⚙️ **Overview**: This folder contains R scripts used for Bioinformatics, Data Analysis, and Data Visualization in the project _Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_ 🐟.
+⚙️ **Overview**: This folder contains R scripts used for Bioinformatics, Data Analysis, and Data Visualization in the project _Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA_.
 
 ## Contents
 
