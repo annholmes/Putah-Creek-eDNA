@@ -4,8 +4,8 @@
 
 ## Contents
 
-- 🧬 **Bioinformatics and Data Wrangling:** Sequence processing, quality control, taxonomic assignment, data transformation, and organization.
-- 📊 **Data Analysis, Statistics, and Modeling:** Multivariate analyses, statistical modeling, and hypothesis testing.
+- 🧬 **Bioinformatics and Data Wrangling:** Sequence processing, quality control, taxonomic assignment, data transformation, and organization
+- 📊 **Statistics, Modeling and Data Visualization:** Multivariate analyses, statistical modeling, and hypothesis testing
 
 ---
 
