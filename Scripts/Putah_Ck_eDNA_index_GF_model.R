@@ -1,16 +1,16 @@
 #R version 4.4.1
+library(here)
 library(cowplot) 
-library(devtools)
 library(dplyr)
-library(phyloseq) #for bioinformatics
-library(vegan) #vegan version 2.6.8
-library(writexl) #to view files in excel
+library(devtools)
+library(tidyverse)
+library(writexl) 
+library(magick)
+library(ggtext)
 
 #installing gradientForest can be a challenge, see https://github.com/z0on/RDA-forest?tab=readme-ov-file
 library(gradientForest) #gradientForest version 0.1.37
 library(extendedForest) #extendedForest version 1.6.2
-
-setwd("/Users/annholmes/Desktop/github/Putah-Creek-eDNA/Analysis") 
 
 #eDNA Index
 PC_species_for_eDNA_index <- read.csv("PC_species_table_transp.csv")
@@ -19,7 +19,7 @@ rownames(PC_species_for_eDNA_index) <- PC_species_for_eDNA_index$X
 PC_species_for_eDNA_index <- PC_species_for_eDNA_index[,-1]
 
 #modified from Kelley et al. 2019 https://doi.org/10.1038/s41598-019-48546-x
-#function to calculate eDNA index
+#function calculates eDNA index from ASV table (which has been agglomerated to species)
 eDNAINDEX <- function(x) { #where x is a dataframe with taxa/OTUs/etc in rows, and samples in columns
   rowMax <- function(x){apply(x, MARGIN = 1, FUN = max)}
   temp <- sweep(x, MARGIN = 2, STATS = colSums(x), FUN = "/") #create proportion for each taxon/OTU within each sample
@@ -37,7 +37,7 @@ write_xlsx(PC_eDNA_Index1, "/Users/aholmes/Desktop/github/Putah-Creek-eDNA/Analy
 write.csv(PC_eDNA_Index, "/Users/aholmes/Desktop/github/Putah-Creek-eDNA/Analysis/PC_eDNA_Index.csv")
 
 
-#Gradient forest model code modified from Monuki et al. 2021 https://doi.org/10.1371/journal.pone.0253104
+#GF model code modified from Monuki et al. 2021 https://doi.org/10.1371/journal.pone.0253104
 #eDNA Index as ASV table
 ind_val <- as.data.frame(PC_eDNA_Index)
 
@@ -75,7 +75,6 @@ row.names(data_GF ) <- row_namers
 ind_val <- as.data.frame(ind_val)
 
 #Gradient Forest Model
-library(dplyr)
 ind_val <- ind_val %>%
   rename_all(~ make.names(.))
 #remove 2 Lake Berryessa species where detections are probably from eDNA transport (n=2 species)
@@ -92,7 +91,7 @@ data_GF  <- data_GF  %>%
 preds <-colnames(metadata_GF) #predictors are km from confluence and julian date
 resps <-colnames(ind_val_21spp) #responses are eDNA index values for each species by sample
 
-# a forest of 10000 regression trees for each of 21 species
+#forest of 10000 regression trees for each of 21 species
 eDNA_gradFor<-gradientForest(data_GF,
                              preds, 
                              resps,
@@ -102,10 +101,10 @@ eDNA_gradFor<-gradientForest(data_GF,
                              corr.threshold = 0.5, 
                              trace=T)
 
-#Plot Overall Importance of Environmental Variables
+#plot overall importance of variables
 importance(eDNA_gradFor)
 
-#create a color palette
+#color palette
 cols <- c("red3", "cornflowerblue", "gold")
 
 tiff(file="Imp_GF.tiff",
@@ -174,4 +173,54 @@ anova(lm(sqrt(Micropterus.dolomieu) ~ river_km + julian_date + river_km:julian_d
 #fathead minnow, non-native
 anova(lm(sqrt(Pimephales.promelas) ~ river_km + julian_date + river_km:julian_date, data = data_GF))
 
+#GF performance plot needs labeling to show species corresponding to numbers on x-axis
+#read in plot for gradient forest performance (tiff file) that needs the legend
+gf_img <- image_read(here("Manuscript_Outputs", "Putah_Ck_eDNA_Perf_GF_model.tiff"))
 
+#convert to ggplot object
+gf_plot <- ggdraw() + draw_image(gf_img)
+
+#custom legend text with species that are significant in model (1–13) in bold
+legend_text <- paste0(
+  "<b>Significant species:</b><br>",
+  "<b>1.</b> Lepomis macrochirus<br>",
+  "<b>2.</b> Gasterosteus aculeatus<br>",
+  "<b>3.</b> Cyprinus carpio<br>",
+  "<b>4.</b> Lepomis microlophus<br>",
+  "<b>5.</b> Oncorhynchus mykiss<br>",
+  "<b>6.</b> Ptychocheilus grandis<br>",
+  "<b>7.</b> Orthodon microlepidotus<br>",
+  "<b>8.</b> Carassius auratus<br>",
+  "<b>9.</b> Cottus asper<br>",
+  "<b>10.</b> Micropterus salmoides<br>",
+  "<b>11.</b> Lepomis cyanellus<br>",
+  "<b>12.</b> Catostomus occidentalis<br>",
+  "<b>13.</b> Notemigonus crysoleucas<br><br>",
+  "<b>Not significant:</b><br>",
+  "<b>14.</b> Ameiurus melas/nebulosus<br>",
+  "<b>15.</b> Menidia beryllina complex<br>",
+  "<b>16.</b> Gambusia affinis<br>",
+  "<b>17.</b> Hysterocarpus traskii<br>",
+  "<b>18.</b> Oncorhynchus tshawytscha"
+)
+
+#legend plot
+legend_plot <- ggplot() +
+  annotate("richtext", x = 0, y = 0.5, hjust = 0, vjust = 0.5, label = legend_text,
+           fill = NA, label.color = NA, size = 4.5, lineheight = 1.2) +
+  theme_void() +
+  xlim(0, 1) +
+  ylim(0, 1)
+
+#combine the GF perf plot and legend 
+GF_perf_legend_plot <- plot_grid(gf_plot, legend_plot, ncol = 2, rel_widths = c(2.5, 1), align = "v")
+
+GF_perf_legend_plot
+
+#save combined plot
+save_plot("Manuscript_Outputs/Putah_Ck_GF_Perf_legend.png",
+          GF_perf_legend_plot,
+          base_width = 10,
+          base_height = 6,
+          dpi = 300,
+          bg = "white")
