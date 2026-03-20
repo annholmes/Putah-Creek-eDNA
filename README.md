@@ -51,7 +51,7 @@ If you use materials from this study, please cite the published manuscript when 
 
 > Holmes, A., et al. (in prep). *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA*. ([DOI to be added]).
 
-If you use the custom 12S rRNA gene reference sequence database, please also cite this foundation resource:
+If you use the updated regional 12S rRNA gene reference sequence database, please cite this work as well as the foundation resource:
 
 > Nagarajan, R., Holmes, A., & Schreier, A. (2023). Reference sequence database for eDNA metabarcoding of San Francisco estuary fishes and invertebrates [Dataset]. Dryad. https://doi.org/10.5061/dryad.0p2ngf25z
 
