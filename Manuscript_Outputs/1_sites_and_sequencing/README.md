@@ -25,4 +25,4 @@ Read counts by sample before and after quality control.
 
 ### 🧬 Supplementary Figure S1. Species accumulation curves
 
-Cummulative number of species detected as a function of sampling depth for each sample.
+Cumulative number of species detected as a function of sampling depth for each sample.
