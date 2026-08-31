@@ -14,9 +14,12 @@ This reference sequence database is **modified from**:
 ### 🛠 Modifications to this version include:
 • Addition of non-target taxa not expected in Putah Creek to faciliate quality filtering
 • Standardization of species names and sequence dereplication 
-• Format adjustments for compatibility with DADA2’s `assignTaxonomy()` function
+• Formatting changes for compatibility with DADA2’s `assignTaxonomy()` function
+• Alignment of higher taxonomy with Page et al. (2023).
 
 ## 📄 Citations
+
+Page, L. M., H. Espinosa-Pérez, L. T. Findley, C. R. Gilbert, R. N. Lea, N. E. Mandrak, M. d. M. Espinosa-García, and C. W. Becker. 2023. Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 8th ed. Bethesda, MD: American Fisheries Society.
 
 If you use, modify, or incorporate any part this reference sequence database in your work, please cite both:
 1. **Holmes, AE et al.** *Spatiotemporal stability of fish communities in a regulated stream: Insights from environmental DNA (this study)*
