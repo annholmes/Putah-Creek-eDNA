@@ -11,6 +11,6 @@
 
 Each script is focused on a specific task or workflow step.
 
-Scripts are organized to be reusable and may require input files from raw sequencing data or other parts of the repository.
+Scripts are organized to be reusable and may require input files from sequencing data or other sources.
 
 Please see individual script comments for usage details and dependencies.
