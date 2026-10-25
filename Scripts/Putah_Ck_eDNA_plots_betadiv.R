@@ -1,13 +1,15 @@
 #data visualization
 
+library(tidyverse) # ggplot2, dplyr, and lubridate
 library(here)
 library(phyloseq)
 library(writexl)
 library(cowplot)
 library(vegan)
+library(permute)
 library(viridis)
 library(gridGraphics)
-library(tidyverse) #includes ggplot2 and dpylr
+
 
 #read in file
 ps.decontam <- readRDS(here("Supporting_Data_and_Resources", "ps.decontam.rds")) #decontaminated fish reads
@@ -251,7 +253,12 @@ df_edna_index <- read.csv(here("Supporting_Data_and_Resources", "PutahCk_eDNA_In
 df_edna_index <- t(df_edna_index)
 
 #metadata 
-metadata <- read.csv(here("Supporting_Data_and_Resources", "Putah_Ck_eDNA_metadata_field.csv"))
+metadata <- read.csv(here("Supporting_Data_and_Resources", "Putah_Ck_eDNA_metadata_field.csv")) %>%
+  mutate(
+    sampling_date = dmy(sampling_date),
+    water_year = if_else(month(sampling_date) >= 10, year(sampling_date) + 1, year(sampling_date)), # add a water year column
+    river_km = as.numeric(river_km),
+    across(c(season, sampling_event_no, site, water_year), as.factor))
 
 #check sample ID matching
 stopifnot(all(rownames(df_edna_index) %in% metadata$sample_id))
@@ -317,10 +324,63 @@ save_plot(filename = "PutahCk_eDNA_NMDS.png",
           base_width = 8, 
           dpi = 300)
 
-#effects of river_km and season with PERMANOVA
-#convert river_km and season to numeric and factor
-metadata$river_km <- as.numeric(metadata$river_km)
-metadata$season <- as.factor(metadata$season)
+#evaluate significance of river_km and season with PERMANOVA
 
-#test terms and interaction
-adonis2(dist_bray ~ river_km + season + river_km:season, data = metadata, permutations = 999, by = "terms")
+# samples from fall 2021 are in water year 2022
+# water year 2022 samples can be used to evaluate river_km but not season
+metadata %>% distinct(sampling_event_no, water_year, season) %>% count(water_year, season) %>% print()
+metadata %>% filter(water_year == 2022) %>% distinct(site, river_km) %>% print()
+
+# create a matrix where eDNA index is averaged across replicates from the same sampling event
+df_edna_index_mean <- df_edna_index %>%
+  as.data.frame() %>%
+  mutate(sampling_event_no = metadata$sampling_event_no[match(rownames(.), metadata$sample_id)]) %>%
+  group_by(sampling_event_no) %>%
+  summarize(across(everything(), \(x) mean(x, na.rm = TRUE)), .groups = "drop") %>%
+  tibble::column_to_rownames("sampling_event_no") %>%
+  as.matrix()
+
+stopifnot(!anyNA(rownames(df_edna_index_mean)))
+
+# generate metadata sheet in the same format (1 row per sampling event)
+df_metadata_mean <- metadata %>%
+  select(sampling_event_no, water_year, site, river_km, season, julian_date) %>%
+  mutate(across(c(sampling_event_no, water_year, site, season), droplevels)) %>%
+  distinct(sampling_event_no, .keep_all = TRUE) %>%
+  arrange(match(sampling_event_no, rownames(df_edna_index_mean)))
+
+# confirm
+stopifnot(all(rownames(df_edna_index_mean) == df_metadata_mean$sampling_event_no))
+
+# Calculate Bray-Curtis on the replicate means
+dist_bray_mean <- vegdist(df_edna_index_mean, method = "bray")
+
+# define restricted split-plot permutation design
+perm_def <- how(
+  blocks = df_metadata_mean$water_year,
+  within = Within(type = "free"),
+  nperm = 9999)
+
+# permanova with interaction
+set.seed(123)
+edna_permanova_season <- adonis2(dist_bray_mean ~ water_year + river_km * season, 
+                                 data = df_metadata_mean, 
+                                 permutations = perm_def,
+                                 by = "terms")
+print(edna_permanova_season)
+
+#check results using julian date instead of season just in case
+# julian data was used in GF model, but GF is really meant for gradients 
+edna_permanova_julian <- adonis2(dist_bray_mean ~ water_year + river_km * julian_date,
+                                 data = df_metadata_mean,
+                                 permutations = perm_def,
+                                 by = "terms")
+print(edna_permanova_julian) # significant terms don't change
+
+# check assumptions
+# calculate the spread (dispersion) by season
+disper_season <- betadisper(dist_bray_mean, group = df_metadata_mean$season)
+
+# test if dispersion is statistically different between seasons
+set.seed(123)
+permutest(disper_season, permutations = 9999)
